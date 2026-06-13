@@ -1,0 +1,5 @@
+Ventas totales: 335000
+
+Producto mas vendido: Mouse
+
+Analisis completado.
